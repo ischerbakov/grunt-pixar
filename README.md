@@ -107,7 +107,7 @@ that's the idea. A JSON pixar file can be treated as some kind of a package, sin
   pixar: [], // from the previous example
   pixies: {
     " ":   ".pixel\n",  // mapping to jade
-    "*":   ".pixel.red  // or ".pixel: .red",
+    "*":   ".pixel.red",  // or ".pixel: .red"
     "   ": ".empty-row" // if you're really gonna eat that shit
   }
 }
@@ -177,12 +177,14 @@ Squares are for clarity.
 ```
 `Gruntfile.js`:
 ```js
+...
 pixar: {
   jsonExample: {
     src: 'input.json',
     dest: 'output.jade'
   }
 }
+...
 ```
 `output.jade` after `grunt pixar:jsonExample`:
 ```jade
@@ -195,7 +197,7 @@ pixar: {
   .pixie.white
   .pixie.white
   .pixie.black
-  ...
+  //- and so on...
 ```
 
 ## Contributing
