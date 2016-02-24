@@ -1,4 +1,9 @@
-# grunt-pixar
+# grunt-pixar [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+ 
+
+[![NPM version](https://img.shields.io/npm/v/grunt-pixar.svg)](https://www.npmjs.com/package/grunt-pixar)
+[![Dependency Status](https://david-dm.org/ischerbakov/grunt-pixar.svg)](https://david-dm.org/ischerbakov/grunt-pixar)
+[![devDependency Status](https://david-dm.org/ischerbakov/grunt-pixar/dev-status.svg)](https://david-dm.org/ischerbakov/grunt-pixar#info=devDependencies)
 
 > Grunt plugin for rendering arrays.
 
