@@ -1,7 +1,7 @@
 {
   "name": "grunt-pixar",
   "description": "Grunt plugin for rendering arrays.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/ischerbakov/grunt-pixar",
   "author": "Игорь Щербаков",
   "repository": "ischerbakov/grunt-pixar",
