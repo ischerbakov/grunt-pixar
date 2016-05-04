@@ -2,16 +2,16 @@
   "name": "grunt-pixar",
   "description": "Grunt plugin for rendering arrays.",
   "version": "1.0.1",
-  "homepage": "https://github.com/ishcherbakov/grunt-pixar",
+  "homepage": "https://github.com/ischerbakov/grunt-pixar",
   "author": "Игорь Щербаков",
   "repository": "ishcherbakov/grunt-pixar",
   "bugs": {
-    "url": "https://github.com/ishcherbakov/grunt-pixar/issues"
+    "url": "https://github.com/ischerbakov/grunt-pixar/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/ishcherbakov/grunt-pixar/blob/master/LICENSE-MIT"
+      "url": "https://github.com/ischerbakov/grunt-pixar/blob/master/LICENSE-MIT"
     }
   ],
   "scripts": {
